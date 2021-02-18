@@ -1,53 +1,7 @@
 [
-        {"title":["Patents"],
-         "content":["O.Ergen, N. Ware, “Method and System for Hexagonal Boron Nitride Incorporation to Achieve High-Performance Lithium-Based Electrodes”, U.S Patent Application, 62971246, 2020."
-         ,"O.Ergen, N. Ware, “Method and System for Forming an Electrolyte Separator Using a Silica Network Incorporated with Hexagonal Boron Nitride”, U.S Patent Application, 62975766, 2020."
-         ,"O.Ergen, N. Ware, “Method and System for Forming an Electrolyte Separator with Additive Boron Nitride Structures, Using Acid-Stable Plasticizer” , U.S Patent Application, 62975767, 2020. "
-         ,"O.Ergen, N. Ware, “Method and System for Providing Silica Networked Hybrid, Gel Polymer, Hexagonal Boron Nitride (h-BN) Electrolyte for Use with Liquid Organic Electrolyte Structures” , U.S Patent Application, 62975768, 2020. "
-         ,"O.Ergen, N. Ware, “Method and System for Application of Protective Boundary on Capacitor Walls to Prevent Loss of Hydrogen at High Temperatures and/or High Voltages in Electrical Storage Devices”, U.S Patent Application, 62975769, 2020. "
-         ,"O.Ergen, A. Zettl, “Graded Band Gap Perovskite Solar Cells”, U.S Patent Application, 10,403,708, 2019."
-         ,"O.Ergen, A. Zettl “High-Temperature Li-ion Battery Cells Utilizing Boron Nitride Aerogels and BoronNitride Nanotubes”, U.S Patent Application, 15/822,563, Nov. 27, 2017."]
+    {
+      "title": "sda",
+      "content": ["sada","dsfa"]
     },
-    {"title":["Selected publications"],
-         "content":["O. Ergen, E. Celik, A. H. Unal, M. H. Erdolu, F. E. Sarac, U. Unal, “Real Time Chemical and Mechanical Human Motion Monitoring with Aerogel Based Wearable Sensors”, Lab on a Chip, (2020), DOI: 10.1039/D0LC00545B",
-         "O. Ergen, E. Celik, A. H. Unal, M. H. Erdolu, “ Screen engineered field effect Cu2O based solar cells, IEEE Electron Device Letter, (2020), DOI 10.1109/LED.2020.299592",
-         "O. Ergen, “Hexagonal boron nitride incorporation to achieve high performance Li4Ti5O12 electrodes”, AIP Advances 10, 045040 (2020).",
-         "A. Zahedi, M. Ergen, O. Ergen, I. Shayea, A, El-Saleh, “Effective Capacity and Outage Probability Assessment of Multiple-Relay Cognitive Communication Systems in Nakagamim and Rayleigh Fading Channel”, Transactions on Emerging Telecommunications Technologies, (2019)",
-         "O. Ergen, et. al.,“AI driven advanced internet of things (IoTX2) : the future seems irreversibly connected in medicine”, Anatolian Journal of Cardiology/Anadolu Kardiyoloji Dergisi, 23(3), (2019).",
-         "O. Ergen, S.M. Gilbert, S. J. Turner, A. Zettl. “Hexagonal Boron Nitride as a Cationic Diffusion Barrier to form a Graded Band Gap Perovskite Heterostructure”, Physica Status Solidi(b), (2016). doi:10.1002/pssb.201600234",
-         "O. Ergen, A. Gibb, O. Vazquez-Mena, W.R. Regan, A. Zettl. “Metal Insulator Semiconductor Solar cell devices based on a Cu2O substrate utilizing h-BN as an insulating and passivating layer”, Applied Physics Letters, 106,103904, (2015).",
-         "Vazquez-Mena, J.P. Bosco, O. Ergen, H.I. Rasool, A. Fathalizadeh, M. Tosun, M. Crommie, A. Javey, H.A. Atwater, A. Zettl. “Performance Enhancement of a Graphene-Zinc Phosphide Solar Cell Using the Electric Field-Effect”, Nano Letters., 14,8, pp 4280–4285, (2014).",
-         "Vazquez-Mena, W. Regan, S. Byrnes, O.Ergen,W. Gannett, F. Wang, A. Zettl, Department of Physics, University of California, and Materials Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA. In Photovoltaic Specialists Conference (PVSC), 2013 IEEE 39th(pp. 3284-3286). IEEE, (2013).",
-         "Regan, S. Byrnes, W. Gannett, O.Ergen, O. Vazquez-Mena, F. Wang, A. Zettl. “Screening-engineered field-effect solar cells”, Nano Letters, 12(8), 4300-4304, (2012).",
-         "Cho, D. J. Ruebusch, M. H. Lee, J. H. Moon, A. C. Ford, R. Kapadia, K. Takei, O. Ergen, A. Javey. “Molecular monolayers for conformal, nanoscale doping of InP nanopillar photovoltaics”, Applied Physics Letters, 98, 203101, (2011).",
-         "Ergen, D. Ruebusch, H. Fang, A. Rathore, R. Kapadia, Z. Fan, K. Takei, A. Jamshidi, M. Wu, A. Javey. “Shape-Controlled Synthesis of Single-Crystalline Nanopillar Arrays by Template-Assisted Vapor-Liquid-Solid Process”, Journal of the American Chemical Society, 132 (40), 13972–13974, (2010).",
-         "Fan, D. J. Ruebusch, A. A. Rathore, R. Kapadia, O. Ergen, P. W. Leu, A. Javey. “Challenges and Prospects of Nanopillar Based Solar Cells”, Nano Research, 2, 829-843, (2009).",
-         "Fan, H. Razavi, J. Do, A. Moriwaki, O. Ergen, Y.-L. Chueh, P. W. Leu, J. C. Ho, T. Takahashi, L. A. Reichertz, S. Neale, K. Yu, M. Wu, J. W. Ager, A. Javey. “Three dimensional nanopillar array photovoltaics on low cost and flexible substrates”,Nature Materials, 8, 648-653, (2009).",
-         "C. Ho, A. C. Ford, Y.-L. Chueh, P. Leu, O. Ergen, K. Takei, G. Smith, P. Majhi, J. Bennett, A. Javey. “Nanoscale doping of InAs via sulfur monolayers”, Applied Physics Letters, 95, 072108, (2009).",
-         "C. Ford, J. C. Ho, Z. Fan, O. Ergen, V. Altoe, S. Aloni, H. Razavi, A. Javey. “Synthesis, Contact Printing, and Device Characterization of Ni-Catalyzed, Crystalline InAs Nanowires”, Nano Research, 1, 32-39, (2008)."]
-    },
-    {"title":["Submitted publication"],
-         "content":["O. Ergen, et. al., “Screen engineered field effect Cu2O based solar cells”, Lab on Chip, IEEE Electron Device Letters, submitted.",
-         "O. Ergen, et. al., “Real-Time Chemical and Mechanical Human motion monitoring with aerogel based wearable sensors”, Lab on Chip, submitted.",
-         "O.Ergen, et. al., “ZnO nanowire embedded graphene aerogel structures for piezotronics strain sensor”, IEEE Journal of the Electron Devices Society, submitted.",
-         "M.Ergen, F. Inan, O. Ergen, I. Shayea “ Edge on Wheels in 6G with Omnibus Networking”, IEEE Communications Magazine, submitted."
-        ]
-    },
-    {  "title":["To be submitted publication"],
-         content:["O. Ergen, et. al., “Chemically and mechanically stable rechargeable solid-state Li batteries utilizing boron nitride aerogel based coatings”, to be submitted"]
-    },
-    {"title":["Patents (In-press and to be submitted)"],
-         content:["United States Patent, O.Ergen, et al, “Method for Precise Identification of Power Outage Location by Using Wi-Fi Access Points”",
-         "United States Patent, O.Ergen, et al, “Method for Cost-Effective Grid Edge Management Utilizing Wireless Information”"
-        ]
-    },
-    {"title":["Ongoing research and publications:"],
-         "content":["O. Ergen, et. al.,” Early oral cancer detection sensor (EoCDS) using nanoengineered aerogel composite structures”",
-         "O.Ergen, et. al.,“Direct chemical conversion of graphene to hexagonal boron nitride with using laser ablation”",
-         "O.Ergen, et. al.,“Li-air, rechargeable, solid-state batteries using modified boron interfaces”",
-         "O. Ergen, et. al.,“Solving WiFi Waste with Developing an Artificial Intelligence Solution to Collaboratively Control and Optimize the World’s WiFi”",
-         "O. Ergen, et. al.,“Intelligent sensing tools for battery capacity management”"
-        ]
-    }
-
-    ]
+    
+  ]
