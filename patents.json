@@ -14,7 +14,7 @@
          ]
     ,
     ["Selected publications",
-         "content":["O. Ergen, E. Celik, A. H. Unal, M. H. Erdolu, F. E. Sarac, U. Unal, “Real Time Chemical and Mechanical Human Motion Monitoring with Aerogel Based Wearable Sensors”, Lab on a Chip, (2020), DOI: 10.1039/D0LC00545B",
+         ["O. Ergen, E. Celik, A. H. Unal, M. H. Erdolu, F. E. Sarac, U. Unal, “Real Time Chemical and Mechanical Human Motion Monitoring with Aerogel Based Wearable Sensors”, Lab on a Chip, (2020), DOI: 10.1039/D0LC00545B",
          "O. Ergen, E. Celik, A. H. Unal, M. H. Erdolu, “ Screen engineered field effect Cu2O based solar cells, IEEE Electron Device Letter, (2020), DOI 10.1109/LED.2020.299592",
          "O. Ergen, “Hexagonal boron nitride incorporation to achieve high performance Li4Ti5O12 electrodes”, AIP Advances 10, 045040 (2020).",
          "A. Zahedi, M. Ergen, O. Ergen, I. Shayea, A, El-Saleh, “Effective Capacity and Outage Probability Assessment of Multiple-Relay Cognitive Communication Systems in Nakagamim and Rayleigh Fading Channel”, Transactions on Emerging Telecommunications Technologies, (2019)",
@@ -33,7 +33,7 @@
       ]
     ],
     ["Submitted publication",
-         "content":["O. Ergen, et. al., “Screen engineered field effect Cu2O based solar cells”, Lab on Chip, IEEE Electron Device Letters, submitted.",
+      ["O. Ergen, et. al., “Screen engineered field effect Cu2O based solar cells”, Lab on Chip, IEEE Electron Device Letters, submitted.",
          "O. Ergen, et. al., “Real-Time Chemical and Mechanical Human motion monitoring with aerogel based wearable sensors”, Lab on Chip, submitted.",
          "O.Ergen, et. al., “ZnO nanowire embedded graphene aerogel structures for piezotronics strain sensor”, IEEE Journal of the Electron Devices Society, submitted.",
          "M.Ergen, F. Inan, O. Ergen, I. Shayea “ Edge on Wheels in 6G with Omnibus Networking”, IEEE Communications Magazine, submitted."
@@ -49,7 +49,7 @@
         ]
     ],
     ["Ongoing research and publications:",
-         "content":["O. Ergen, et. al.,” Early oral cancer detection sensor (EoCDS) using nanoengineered aerogel composite structures”",
+       ["O. Ergen, et. al.,” Early oral cancer detection sensor (EoCDS) using nanoengineered aerogel composite structures”",
          "O.Ergen, et. al.,“Direct chemical conversion of graphene to hexagonal boron nitride with using laser ablation”",
          "O.Ergen, et. al.,“Li-air, rechargeable, solid-state batteries using modified boron interfaces”",
          "O. Ergen, et. al.,“Solving WiFi Waste with Developing an Artificial Intelligence Solution to Collaboratively Control and Optimize the World’s WiFi”",
